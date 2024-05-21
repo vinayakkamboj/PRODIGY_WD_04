@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    margin: 3.125rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #468B97;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 1.65rem;
+    color: #468B97;
+}
+h3{
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #468B97;
+    
+}
+p{
+    line-height: 2;
+}
+
+
+.top-container{
+    background-color: #EAF6F6;
+    position:relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position:absolute;
+    top: 40px;
+    right: 300px;
+
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+}
+.middle-container{
+    padding:40px;
+
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    padding-top: 20px;
+}
+.bottom-container{
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+.headphone{
+    width: 20%;
+    float:left;
+    margin-right: 40px;
+}
+.front-end-dev{
+    width: 20%;
+    float:right;
+    margin-right: 40px;
+    
+}
